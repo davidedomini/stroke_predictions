@@ -1,4 +1,4 @@
-# stroke_predictions
+# Stroke predictions
 
 Project for Data Intensive Application exam
 
